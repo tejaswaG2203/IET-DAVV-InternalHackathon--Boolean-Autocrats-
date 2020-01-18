@@ -8,4 +8,13 @@ Simple interface for farmers,buyers and transportes to exchange services .Farmer
 Farmnet helps the farmer to get good yeild of produce, buyer the affordable price and extra employment to the transport facilities also cutting the middle man in the process.
 
 PREREQUISITES:
+Any IDE on your machine supporting java web applications:
+eg. Netbeans ,Eclipse etc.
+
+HOW TO ACCESS:
+1.download the web appliation and jar files from the rope.
+2.Acess the web application from the IDE .
+3.Attach the additional jar files provided in the library of the project.
+4.build and run the project.
+
 
